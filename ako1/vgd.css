@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    font-family: Ribeye;
+}
+.ako{
+    margin: auto;
+    
+}
+header{
+    background-color: rgb(116, 116, 116);   
+}
+footer{
+    background-color: rgb(116, 116, 116);
+}
+section{
+    background-image: url('./photo_2021-12-08_16-14-35.jpg');
+    background-size: cover;
+}
